@@ -21,7 +21,7 @@ npx sp25-create-lovapp
 
 1. If you choose valentine, you will be prompted for:
 - The name of your special person
-- Your plan for the date (e.g., dinner, picnic)
+- Your plan for the date (example: dinner, picnic)
 - A special message for your invitation
 - The tool will then generate a .txt file with your invitation, saving it in the current directory.
 
